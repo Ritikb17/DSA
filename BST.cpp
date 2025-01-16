@@ -12,6 +12,7 @@ struct Node {
 
 class Binary {
 public:
+
     Node *head;
     Binary() { head = nullptr; }
 
